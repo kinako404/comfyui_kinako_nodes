@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+prompt_sets.json
+prompt_sets.json.tmp
