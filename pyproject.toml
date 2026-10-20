@@ -1,6 +1,6 @@
 [project]
 name = "comfyui_kinako_nodes"
-description = "Kinako 自用 ComfyUI 节点包：图像批次拆分、取批次末帧、宽高计算对齐、场景文本拆分、视频取帧、OpenAPI 简易调用"
+description = "Kinako 自用 ComfyUI 节点包：加载并拖拽裁剪图像、图像批次拆分、取批次末帧、宽高计算对齐、场景文本拆分、视频取帧、OpenAPI 简易调用"
 version = "1.0.0"
 license = { text = "MIT" }
 dependencies = []

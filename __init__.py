@@ -1,6 +1,7 @@
 from . import (
     discard,
     image_batch_splitter,
+    image_crop_loader,
     image_last,
     image_wh,
     openapi_chat,
@@ -15,6 +16,7 @@ NODE_DISPLAY_NAME_MAPPINGS = {}
 for _module in (
     discard,
     image_batch_splitter,
+    image_crop_loader,
     image_last,
     image_wh,
     openapi_chat,
